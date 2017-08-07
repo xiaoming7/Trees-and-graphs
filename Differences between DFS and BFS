@@ -1,0 +1,2 @@
+BFS： Queue; DFS： Stack
+BFS: visited by layers, suitable for solving shortest path problem; DFS:  recurrence
